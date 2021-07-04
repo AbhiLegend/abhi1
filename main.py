@@ -1,5 +1,5 @@
 import wolframalpha
-API_Key ='94Q5XV-44YXV3KR3A'
+API_Key =''
 client = wolframalpha.Client(API_Key)
 
 def math(equation):
